@@ -1,0 +1,110 @@
+  
+
+        body{
+            padding: 2rem 5rem;
+            text-align: center;
+          
+        }
+        h1{
+            text-align: center;
+            font-size: 20px;
+        }
+        
+        header{
+            background-color: #CCD6A6;
+            border-radius: 2rem 2rem 0rem 0rem;
+            padding: 0.5rem 0;
+        }
+        
+         footer{
+            background-color: #CCD6A6;
+            border-radius: 0rem 0rem 2rem 2rem;
+            padding: 1.5rem;
+            font-size: 20px;
+            text-align: center;
+            
+        }
+        
+        .link{
+            padding: 10px 12px;
+            background-color: #FAD9A1;
+        }
+        .link a{
+            text-decoration: none;
+            color: black;
+        
+        }
+        .link a:hover{
+            background-color: #eaeaea;
+            color: white;
+            padding: 10px 12px;
+         
+        }
+        .masuk{
+            background-color: #FAD9A1;
+            color: white;
+            text-decoration: underline;
+        }
+        .masuk h1{
+            letter-spacing: 5px;
+        }
+        .out{
+            padding: 10px 12px;
+            background-color: #FAD9A1;
+           
+        }
+        .out a{
+            padding : 10px 12px;
+            text-decoration: none;
+            color: white;
+        }
+        .out a:hover{
+            padding: 10px 12px;
+            background-color: white;
+            color: darkred;
+        }
+        h2{
+            letter-spacing: 10px;
+            color: darkred;
+        }
+        .button{
+            width: 50%;
+            color: white;
+            background-color: #FAD9A1;
+            border-radius: 2rem 2rem 2rem 2rem;
+        }
+        
+        body .menukasir{
+            margin-bottom: 5rem;
+            margin-left: 5rem;
+            margin-right: 5rem;
+            box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
+            border-radius: 2rem 2rem 2rem 2rem;
+        }
+        
+        body .inibutton{
+            text-align: center;
+        }
+        
+        body .semangat{
+            background-color: #CCD6A6;
+            padding: 1rem;
+            font-size: 30px;
+            text-align: center;
+        }
+        
+        body .makanan{
+            background-image: url(https://www.wowkeren.com/display/images/photo/2020/05/19/00311546.jpg);
+            box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
+            border-radius: 2rem 2rem 2rem 2rem;
+        }
+        
+        body .field{
+            padding: 0rem 2rem;
+        }
+        #tampil_tabel{
+            padding-top: 2rem;
+        }
+        
+        
+        
